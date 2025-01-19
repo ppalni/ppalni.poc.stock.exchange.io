@@ -1,0 +1,7 @@
+module.exports = {
+  mongoUri: 'mongodb://localhost/mock-youtube-stock-exchange',
+  bitcoinNetwork: 'testnet', // or 'mainnet'
+  bitcoinPrivateKey: 'your-bitcoin-private-key',
+  usdCurrency: 'USD',
+  bitcoinCurrency: 'BTC',
+};
